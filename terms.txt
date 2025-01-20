@@ -1,0 +1,279 @@
+Social Security Numbers 
+SSN
+Sozialversicherungsnummer
+Rentenversicherungsnummer
+Reisepassnummer
+Passnummer
+Personalausweisnummer
+Führerscheinnummer
+Steueridentifikationsnummer
+Steuernummer
+Steuer-ID
+SteuerID
+IdNr
+Tax Identification Numbers
+TIN
+Personalnummer 
+Mitarbeiternummer
+Matrikelnummer
+Patientennummer
+Kontonummer
+Kto.-Nr.
+Kto-Nr
+KtoNr
+IBAN
+Bank Account Number
+Account Number
+Credit Card Number
+Kreditkartennummer
+Rasse
+Race
+rassisch
+racial
+Rassenkunde
+Rassenlehre
+Rassenmerkmale
+Rassenhygiene
+Ethnie
+ethnisch
+ethnische Herkunft
+Volksgruppe
+Nationalität
+Staatsangehörigkeit
+Abstammung
+arabisch
+türkisch
+kurdisch
+jüdisch
+Roma
+Sinti
+Zigeuner
+Ausländer
+Migrationshintergrund
+CDU
+Christlich Demokratische Union Deutschlands
+CSU
+Christlich-Soziale Union
+SPD
+Sozialdemokratische Partei Deutschlands
+Bündnis 90/Die Grünen
+Die Grünen
+FDP
+Freie Demokratische Partei
+Die Linke
+AfD
+Alternative für Deutschland
+Sytempartei
+Altpartei
+NPD
+Nationaldemokratische Partei Deutschlands
+Die PARTEI
+Freie Wähler
+Piratenpartei Deutschland
+ÖDP
+Ökologisch-Demokratische Partei
+Tierschutzpartei
+Junge Union
+Jusos
+Grüne Jugend
+Junge Liberale
+JuLis
+Linksjugend
+Junge Alternative
+sozialistisch
+socialist
+kommunistisch
+communist
+sozialdemokratisch
+social democratic
+liberal
+konservativ
+conservative
+rechtsextrem
+linksextrem
+nationalistisch
+nationalist
+faschistisch
+nationalsozialistisch
+anarchistisch
+libertär
+christdemokratisch
+christsozial
+Wahlverhalten
+Abstimmungsverhalten
+Wahlempfehlung
+Wahlzettel
+Stimmabgabe
+Briefwahl
+Urnenwahl
+Wähler von
+Wähler für
+Glaube
+Weltanschauung
+Weltauffassung
+Christentum
+Katholizismus
+Katholik
+Römisch-katholisch
+Protestantismus
+Protestant
+Evangelisch
+Lutherisch
+Reformiert
+Evangelisch-lutherisch
+Evangelisch-reformiert
+Freikirche
+Baptisten
+Baptist
+Methodisten
+Methodist
+Pfingstbewegung
+Adventist
+Adventisten
+Orthodox
+Griechisch-Orthodox
+Russisch-Orthodox
+Islam
+Islamismus
+Sunnitisch
+Sunnit
+Schiitisch
+Schiit
+Aleviten
+Alevit
+Sufismus
+Sufi
+Judentum
+Jude
+Buddhismus
+Buddist
+Buddisten
+Theravada-Buddhismus
+Mahayana-Buddhismus
+Vajrayana-Buddhismus
+Tibetischer Buddhismus
+Zen-Buddhismus
+Hinduismus
+Hindu
+Hindus
+Bahaitum
+Bahai
+Jesidentum
+Jeside
+Pfarrer
+Pfarrerin
+Pastor
+Priester
+Diakon
+Diakonin
+Bischof
+Bischöfin
+Papst
+Imam
+Rabbiner
+Rabbinerin
+Rabbi
+Mönch
+Nonne
+Atheismus
+Agnostizismus
+Humanismus
+Existenzialismus
+Nihilismus
+Spiritualität
+Esoterik
+Anthroposophie
+Konfuzianismus
+Kirche
+Moschee
+Synagoge
+Kloster
+Glaubensgemeinschaft
+Weltanschauung
+Sekte
+Glaube
+Religion
+Konfessionslos
+Religionszugehörigkeit
+Neopaganismus
+Zeugen Jehovas
+Chromosom
+Allel
+Genotyp
+Phänotyp
+Mutation
+Polymorphismus
+Sequenzierung
+Genexpression
+Vererbung
+Erblich
+Gentest
+Genetic test
+Genetische Untersuchung
+Genetic examination
+Genanalyse
+Genetic analysis
+DNA-Test
+DNS-Test
+DNA test
+DNA-Analyse
+DNA analysis
+DNS-Analyse
+Genetische Diagnostik
+Genetic diagnostics
+Pränataldiagnostik
+Prenatal diagnostics
+Neugeborenenscreening
+Newborn screening
+Trägerstatus
+Carrier status
+Abstammungsanalyse
+Paternity testing
+Maternity testing
+Ancestry analysis
+Vaterschaftstest
+Paternity test
+Mutterschaftstest
+Maternity test
+Befund
+Erbkrankheit
+Hereditary disease
+Genetische Störung
+Genetic disorder
+Genetische Prädisposition
+Genetic predisposition
+Monogenetische Erkrankung
+Monogenic disorder
+Polygenetische Erkrankung
+Polygenic disorder
+Chromosomenanomalie
+Chromosomal abnormality
+Trisomie 21
+Down-Syndrom
+Trisomy 21
+Down Syndrome
+Mukoviszidose
+Cystic fibrosis
+Chorea Huntington
+Huntington's disease
+Duchenne-Muskeldystrophie
+Duchenne muscular dystrophy
+Sichelzellenanämie
+Sickle cell anemia
+BRCA1/BRCA2
+BRCA1
+BRCA2
+Familiäre Hypercholesterinämie
+Familial hypercholesterolemia
+Einzelnukleotid-Polymorphismus
+SNP
+Single nucleotide polymorphism
+Pathogene Variante
+Pathogenic variant
+Wahrscheinlich pathogene Variante
+Likely pathogenic variant
+Variante unklarer Signifikanz
+VUS
+Variant of uncertain significance
+Benigne Variante
+Benign variant
